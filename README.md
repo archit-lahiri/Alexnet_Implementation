@@ -1,5 +1,5 @@
 # Alexnet_Implementation
-Implementation of Alexnet as per the original paper in Tensorflow.
+Implementation of Alexnet as per the original paper (in Tensorflow).
 
 In this [jupyter notebook file](https://github.com/archit-lahiri/Alexnet_Implementation/blob/main/alexnet.ipynb)  I implement the Alexnet architecture as it was proposed in the paper:
 
